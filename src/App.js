@@ -72,7 +72,6 @@ const App = () => {
   return (
     <Router>
       <div style={{ display: 'flex' }}>
-        {/* <CssBaseline /> */}
         <Navbar totalItems={cart.total_items} />
         <Switch>
           <Route exact path="/">
