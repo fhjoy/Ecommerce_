@@ -7,5 +7,5 @@ https://reactsalewortd.netlify.app/
 npm install and npm start
 
 ### Made By
-React, commercejs, stripe, material-ui, css, HTML
+React, commercejs, stripe, material-ui, css, html
 
